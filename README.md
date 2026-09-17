@@ -1,33 +1,52 @@
-# Cybersecurity-Portfolio
-I am a cybersecurity professional developing practical experience in security monitoring, threat detection, LINUX, incident investigation and network security through hands-on labs and home-lab projects. This repository documents my hands-on cybersecurity learning, labs investigations and personal security projects.
+# Cybersecurity Portfolio
+Hi, I'm Elisha.
+I am an aspiring Cybersecurity Analyst building practical
+experience through hands-on labs, security projects and
+continuous learning.
+This repository documents my cybersecurity learning journey,
+including practical labs, investigations, tools, projects
+and lessons learned.
 
-## Core Skills
+## Areas of Focus
+- Cybersecurity Fundamentals
 - Networking
 - Linux
-- Windows
-- Security Operations
+- Windows Security
+- SOC Operations
 - SIEM
 - Log Analysis
 - Incident Response
 - Threat Detection
-- Vulnerability Assessment
-- Python
-- Wireshark
-- Nmap
-- Wazuh
-- Suricata
+- Network Security
 
-## Platforms & Tools
+## Tools & Platforms
 - TryHackMe
-- Cisco Networking Academy
-- Google Cybersecurity Certificate
 - Wazuh
 - Suricata
 - Wireshark
 - Nmap
 - Linux
+- Cisco Networking Academy
+- Google Cybersecurity Certificate
 
-## Current Learning
-Currently developing practical SOC and Cybersecurity Analyst
-skills through hands-on labs and security projects.
+## Portfolio
+### Hands-on Labs
+My practical cybersecurity labs and learning exercises.
+
+### Security Projects
+Independent projects where I apply cybersecurity concepts
+to realistic scenarios.
+
+### Learning Journal
+My notes, progress and lessons learned throughout my
+cybersecurity journey.
+
+### Certifications
+My completed cybersecurity certifications and training.
+
+---
+
+## Current Goal
+Developing practical skills for a Junior Cybersecurity /
+SOC Analyst role.
 

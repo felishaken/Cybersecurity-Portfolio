@@ -44,3 +44,26 @@ The Wazuh Dashboard initially reported connection failures to the Indexer at `12
 - Explore Wazuh security events and alerts.
 - Investigate how endpoint agents send security data to the Manager.
 
+
+
+## Dashboard Verification
+
+The Wazuh Dashboard loaded successfully in the browser after restarting the Indexer and Dashboard services.
+
+### Observations
+- Dashboard Overview page accessible.
+- Agents Summary: 0 active agents and 1 disconnected agent.
+- Last 24 hours alert summary:
+  - Critical: 0
+  - High: 0
+  - Medium: 10
+  - Low: 2
+
+These alert counts are observations from the dashboard at the time of testing. The individual alerts still need investigation to determine their source and significance.
+
+### Current Status
+The core Dashboard and Indexer services are responding. Endpoint connectivity remains to be investigated.
+
+### Next Step
+Investigate why the registered endpoint agent is disconnected and verify whether security events are reaching the Wazuh Manager.
+
